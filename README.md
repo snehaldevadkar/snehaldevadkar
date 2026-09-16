@@ -22,7 +22,7 @@
 
 <br><br>
 
-`🟣 DATA`   `🔵 INSIGHTS`   `🟢 VISUALIZATION`   `🟠 BUSINESS`
+`🟣 DATA`   `🔵 INSIGHTS`   `🟢 VISUALIZATION`   `🟠 BUSINESS`
 
 </div>
 
@@ -40,11 +40,11 @@
 
 ### 🔍 I ANALYZE
 
-📌 Raw & messy datasets
-📌 Customer behavior
-📌 Sales & business trends
-📌 Patterns & anomalies
-📌 KPIs & performance
+📌 Raw & messy datasets  
+📌 Customer behavior  
+📌 Sales & business trends  
+📌 Patterns & anomalies  
+📌 KPIs & performance  
 
 </td>
 
@@ -52,11 +52,11 @@
 
 ### 💡 I CREATE
 
-📊 Interactive dashboards
-🐍 Python analysis
-🗄️ SQL insights
-📈 Data visualizations
-🎯 Business-focused conclusions
+📊 Interactive dashboards  
+🐍 Python analysis  
+🗄️ SQL insights  
+📈 Data visualizations  
+🎯 Business-focused conclusions  
 
 </td>
 </tr>
@@ -77,14 +77,15 @@
 ### 🛒 Brazilian E-Commerce Data Analysis
 
 <img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-Analysis-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-Analytics-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-EDA-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-Analysis-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 
 <br><br>
 
-<a href="https://github.com/snehaldevadkar/Brazilian-eCommerce-Data-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=snehaldevadkar&repo=Brazilian-eCommerce-Data-Analysis&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/snehaldevadkar/brazilian-ecommerce-analysis-python">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=snehaldevadkar&repo=brazilian-ecommerce-analysis-python&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -186,17 +187,17 @@
 
 <td width="50%" valign="top">
 
-### 🛒 Brazilian E-Commerce
+### 🛒 Brazilian E-Commerce Analysis
 
-📊 **Business Analytics**
+📊 **Exploratory Data Analysis**
 
-Explore sales, customers, orders, reviews and delivery patterns through data.
+Explore Brazilian e-commerce performance through sales trends, customer behavior, payment methods, delivery performance, reviews and cancellations.
 
 **Stack**
 
-`Python` `SQL` `Power BI` `Excel`
+`Python` `Pandas` `NumPy` `Matplotlib` `Jupyter`
 
-<a href="https://github.com/snehaldevadkar/Brazilian-eCommerce-Data-Analysis">
+<a href="https://github.com/snehaldevadkar/brazilian-ecommerce-analysis-python">
 🔗 **View Project**
 </a>
 
@@ -208,7 +209,7 @@ Explore sales, customers, orders, reviews and delivery patterns through data.
 
 📊 **Real-World Analytics**
 
-More projects focused on business questions, visualization and actionable insights.
+More projects focused on business questions, data analysis, visualization and actionable insights.
 
 **Coming Soon**
 
@@ -251,7 +252,7 @@ More projects focused on business questions, visualization and actionable insigh
 
 <br><br>
 
-### `🟣 DATA`   `🔵 ANALYZE`   `🟢 VISUALIZE`   `🟠 INSIGHT`   `🔴 IMPACT`
+### `🟣 DATA`   `🔵 ANALYZE`   `🟢 VISUALIZE`   `🟠 INSIGHT`   `🔴 IMPACT`
 
 <br>
 
