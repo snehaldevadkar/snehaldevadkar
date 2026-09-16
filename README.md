@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=180&section=header&text=Snehal%20Devadkar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Storyteller%20%7C%20Problem%20Solver&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=180&section=header&text=Snehal%20Devadkar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Excel&descAlignY=62&descSize=18" width="100%"/>
 
 ### `📊 DATA ANALYST` · `🐍 PYTHON` · `🗄️ SQL` · `📈 POWER BI` · `📗 EXCEL`
 
@@ -8,7 +8,7 @@
 
 <br>
 
-> ✦ **I don't just look at numbers — I look for the story behind them.** ✦
+✦ **I don't just look at numbers — I look for the story behind them.** ✦
 
 <br>
 
@@ -84,8 +84,8 @@
 
 <br><br>
 
-<a href="https://github.com/snehaldevadkar/brazilian-ecommerce-analysis-python">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=snehaldevadkar&repo=brazilian-ecommerce-analysis-python&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/snehaldevadkar/Brazilian-eCommerce-Data-Analysis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=snehaldevadkar&repo=Brazilian-eCommerce-Data-Analysis&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -104,6 +104,7 @@
 <img src="https://img.shields.io/badge/📗_Advanced_Excel-217346?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🐼_Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/🔢_NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/📈_Matplotlib-11557C?style=for-the-badge"/>
 
 </div>
 
@@ -158,67 +159,33 @@
 
 <div align="center">
 
-## 📈 `CONTRIBUTION // ACTIVITY`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=snehaldevadkar&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+## 💎 `FEATURED PROJECT`
 
 </div>
-
----
 
 <div align="center">
-
-## 🏆 `GITHUB // ACHIEVEMENTS`
-
-<img src="https://github-profile-trophy.vercel.app/?username=snehaldevadkar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 💎 `FEATURED PROJECTS`
-
-</div>
-
-<table align="center">
-<tr>
-
-<td width="50%" valign="top">
 
 ### 🛒 Brazilian E-Commerce Analysis
 
 📊 **Exploratory Data Analysis**
 
-Explore Brazilian e-commerce performance through sales trends, customer behavior, payment methods, delivery performance, reviews and cancellations.
+Analyzed Brazilian e-commerce data to explore sales performance, customer behavior, payment methods, delivery performance, reviews and cancellations.
 
-**Stack**
+**Business Areas**
+
+`Sales` `Customers` `Payments` `Delivery` `Reviews`
+
+**Tech Stack**
 
 `Python` `Pandas` `NumPy` `Matplotlib` `Jupyter`
 
-<a href="https://github.com/snehaldevadkar/brazilian-ecommerce-analysis-python">
+<br>
+
+<a href="https://github.com/snehaldevadkar/Brazilian-eCommerce-Data-Analysis">
 🔗 **View Project**
 </a>
 
-</td>
-
-<td width="50%" valign="top">
-
-### 🔮 More Coming...
-
-📊 **Real-World Analytics**
-
-More projects focused on business questions, data analysis, visualization and actionable insights.
-
-**Coming Soon**
-
-`📊` `🐍` `🗄️` `💡`
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
